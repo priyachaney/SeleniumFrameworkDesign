@@ -21,5 +21,5 @@ This Selenium Automation Framework is designed to test web applications using Se
 ### Clone the Repository
 
 ```sh
-git clone https://your-repository-url.git
-cd your-repository-directory
+git clone https://github.com/priyachaney/SeleniumFrameworkDesign.git
+cd <directory>
