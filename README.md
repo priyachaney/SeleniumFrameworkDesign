@@ -10,6 +10,11 @@ This Selenium Automation Framework is designed to test web applications using Se
 - **Base Page Class**: Provides common functionality for all page classes.
 - **TestNG Configuration**: XML file to configure and run the test suite.
 
+## Report
+The test results can be reviewed in the TestNG reports generated after running the test suite. TestNG provides detailed HTML and XML reports, including test execution status, passed/failed tests, and error messages if any.
+
+Reports are generated in the test-output directory
+
 ## Setup
 
 ### Prerequisites
